@@ -6,6 +6,4 @@ Leetcode problems I have attempted.<br>
 - BF (Brute force solution, passes)
 - OP (Optimal solution, passes)
 
-| Problem | Status | Link |
-|:-------:|:------:|:----:|
-| 73      | BF
+
